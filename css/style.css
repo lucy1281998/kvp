@@ -1,0 +1,42 @@
+body
+{
+	background-color: ;
+}
+#admission
+{
+	background-color:#FFEC94;
+	box-shadow: 
+	height: auto;
+	background-position:center;
+	background-attachment: fixed;
+	background-size: cover;
+}
+.card1:hover
+{
+	border:2px solid black;
+}
+#kids
+{
+   background-image:url('../img/back.jpg');
+	
+	height:auto;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+	padding-top: 30px;
+}
+#hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+} 
+
+#event
+{
+	background-color:#FFEC94;
+	height:px;
+}
